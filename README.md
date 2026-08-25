@@ -11,7 +11,7 @@ This program Converts distance in kilometer into miles
 ## Input needed
 -x(distance in kilometers)
 -Yes/No
--q(DIstance in kilometers
+-q(Distance in kilometers)
 
 ## Sample output
 Enter Distance in kilometers : 67
